@@ -10,10 +10,6 @@ Built for Hackathon 2025 🚀
 - 📱 Fully responsive design  
 - 🔥 Built on Next.js App Router  
 
-## 📷 Screenshots  
-(Add your screenshots here — e.g., from `/public/screenshots/`)  
-
-<img src="./public/screenshot1.png" alt="Chat App Screenshot" width="600">  
 
 ## 🛠️ Tech Stack  
 - [Next.js](https://nextjs.org/) – React framework  
