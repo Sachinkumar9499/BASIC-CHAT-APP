@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./cover.png" alt="Project Cover" width="100%" />
+</p>
+
+
 # 🤖 AI Chat App  
 
 An interactive AI-powered chat application built with **Next.js 14**, **Tailwind CSS**, and **Ollama**.  
